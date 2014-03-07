@@ -27,10 +27,10 @@ class GlowShow(object):
         print 'set_brightness = ', brightness
         self.brightness = brightness
         
-    def set_pattern(self, values):
-        print 'set_pattern = ', set_pattern
+    def set_pattern(self, pattern):
+        print 'set_pattern = ', pattern
         led_last = list(self.led_val)
-        self.led_val = self.map_vals(values)        
+        self.led_val = self.map_vals(pattern)        
         self.led_val = [ v * self.brightness for v in self.led_val ]
         
         # smooth transition from last to this value
