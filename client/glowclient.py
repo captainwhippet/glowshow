@@ -1,5 +1,5 @@
 #
-# Filename: glowthread.py
+# Filename: glowclient.py
 # Author:   @captainwhippet
 # Created:  7 March 2014
 #
