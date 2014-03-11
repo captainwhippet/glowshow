@@ -10,7 +10,7 @@ This is version 0.1, so a bit basic, but more will follow!
 PiGlow setup
 ------------
 
-First of all, go to @pimoroni for details of how to get the PiGlow running: https://github.com/pimoroni/piglow
+First of all, go to @pimoroni for details of how to get the PiGlow running: http://github.com/pimoroni/piglow
 
 Running the server
 ------------------
